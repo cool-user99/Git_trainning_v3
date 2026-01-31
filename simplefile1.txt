@@ -1,1 +1,2 @@
 this is my simple file 1
+this comparaison lecture1
